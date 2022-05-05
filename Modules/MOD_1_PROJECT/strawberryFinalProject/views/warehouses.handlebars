@@ -1,0 +1,26 @@
+<h2  id="sub-heading" style="margin-left: 13.55cm">The Warehouses</h2>
+<div class="container">
+  <div class="row row-cols-4">
+              {{#each warehouses}}
+                    <div class="col">
+                        <div id="warehousecard" class="card" style="width: 14rem;">
+                          <img id="img-warehouse" src="{{this.image}}" class="card-img-top" alt="image of warehouse">
+                          <div class="card-body">
+                            <h5 class="card-title text-primary">Name: {{this.name}}</h5>
+                            <h5 class="card-title text-dark">Location: {{this.location}}</h5>
+                            <p class="card-text">{{this.description}}</p>
+                            <a id="warehousebtn" href="warehouse/{{id}}" class="btn btn-primary">See this Warehouse</a>
+                          </div>
+                        </div> 
+                       </div>
+                    {{/each}} 
+              
+    </div>
+  </div>
+  <br><br>
+ <a id="returnhome" class="btn btn-secondary"  onclick="goBack()" role="button">Return to Homepage</a>
+                    <script>
+function goBack() {
+  window.history.back();
+}
+</script> 

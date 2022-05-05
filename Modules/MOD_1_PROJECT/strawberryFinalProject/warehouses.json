@@ -1,0 +1,472 @@
+ [{
+         "name": "Sound",
+         "location": "Dallas",
+         "size": 30000,
+         "image": "https://static.seattletimes.com/wp-content/uploads/2019/09/09102019_photo_122450-780x438.jpg",
+         "categories": [{
+                 "name": "Men's clothing",
+                 "items": [{
+                         "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                         "price": 109.95,
+                         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+                         "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "name": "Mens Casual Premium Slim Fit T-Shirts ",
+                         "price": 22.3,
+                         "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+                         "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+                     },
+                     {
+                         "name": "Mens Cotton Jacket",
+                         "price": 55.99,
+                         "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+                         "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+                     },
+                     {
+                         "name": "Mens Casual Slim Fit",
+                         "price": 15.99,
+                         "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+                         "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "name": "Jewelery",
+                 "items": [{
+                         "name": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+                         "price": 695,
+                         "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+                         "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+                     },
+                     {
+                         "name": "Solid Gold Petite Micropave ",
+                         "price": 168,
+                         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+                         "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+                     },
+                     {
+                         "name": "White Gold Plated Princess",
+                         "price": 9.99,
+                         "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+                         "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+                     },
+                     {
+                         "name": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+                         "price": 10.99,
+                         "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+                         "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+                     }
+                 ]
+             }
+         ]
+     },
+     {
+         "name": "Wish",
+         "location": "NY",
+         "size": 30000,
+         "image": "https://cdn.geekwire.com/wp-content/uploads/2019/09/home_featured-real-estate_replace_seattle-3_georgetown-crossroads_2-11.jpg",
+         "categories": [{
+                 "name": "Men's clothing",
+                 "items": [{
+                         "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                         "price": 109.95,
+                         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+                         "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "name": "Mens Casual Premium Slim Fit T-Shirts ",
+                         "price": 22.3,
+                         "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+                         "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+                     },
+                     {
+                         "name": "Mens Cotton Jacket",
+                         "price": 55.99,
+                         "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+                         "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+                     },
+                     {
+                         "name": "Mens Casual Slim Fit",
+                         "price": 15.99,
+                         "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+                         "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "name": "Jewelery",
+                 "items": [{
+                         "name": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+                         "price": 695,
+                         "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+                         "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+                     },
+                     {
+                         "name": "Solid Gold Petite Micropave ",
+                         "price": 168,
+                         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+                         "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+                     },
+                     {
+                         "name": "White Gold Plated Princess",
+                         "price": 9.99,
+                         "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+                         "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+                     },
+                     {
+                         "name": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+                         "price": 10.99,
+                         "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+                         "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+                     }
+                 ]
+             }
+         ]
+     },
+     {
+         "name": "Land",
+         "location": "NJ",
+         "size": 31100,
+         "image": "https://urbanash.com/wp-content/uploads/2017/03/Ainsworth-Dunn-Warehouse-Old-Spaghetti-Factory-Seattle-Waterfront-Condominium-Project.jpg",
+         "categories": [{
+                 "name": "Electronics",
+                 "items": [{
+                         "name": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+                         "price": 64,
+                         "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+                         "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+                     },
+                     {
+                         "name": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                         "price": 109,
+                         "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+                         "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+                     },
+                     {
+                         "name": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+                         "price": 109,
+                         "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+                         "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+                     },
+                     {
+                         "name": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+                         "price": 114,
+                         "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+                         "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+                     },
+                     {
+                         "name": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+                         "price": 599,
+                         "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+                         "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+                     },
+                     {
+                         "name": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+                         "price": 999.99,
+                         "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+                         "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "name": "Jewelery",
+                 "items": [{
+                         "name": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+                         "price": 695,
+                         "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+                         "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+                     },
+                     {
+                         "name": "Solid Gold Petite Micropave ",
+                         "price": 168,
+                         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+                         "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+                     },
+                     {
+                         "name": "White Gold Plated Princess",
+                         "price": 9.99,
+                         "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+                         "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+                     },
+                     {
+                         "name": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+                         "price": 10.99,
+                         "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+                         "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "name": "Women's clothings",
+                 "items": [{
+                         "name": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+                         "price": 56.99,
+                         "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+                         "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+                     },
+                     {
+                         "name": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+                         "price": 29.95,
+                         "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+                         "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+                     },
+                     {
+                         "name": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+                         "price": 39.99,
+                         "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+                         "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+                     },
+                     {
+                         "name": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+                         "price": 9.85,
+                         "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+                         "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+                     },
+                     {
+                         "name": "Opna Women's Short Sleeve Moisture",
+                         "price": 7.95,
+                         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+                         "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+                     },
+                     {
+                         "name": "DANVOUY Womens T Shirt Casual Cotton Short",
+                         "price": 12.99,
+                         "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+                         "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+                     }
+                 ]
+             }
+         ]
+     },
+     {
+         "name": "Rose",
+         "location": "TX",
+         "size": 50000,
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIsxhPK7vTryjmLRt71N7O7KDlNdzPKgSt0g&usqp=CAU",
+         "categories": [{
+             "name": "Women's clothings",
+             "items": [{
+                     "name": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+                     "price": 56.99,
+                     "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+                     "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+                 },
+                 {
+                     "name": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+                     "price": 29.95,
+                     "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+                     "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+                 },
+                 {
+                     "name": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+                     "price": 39.99,
+                     "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+                     "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+                 },
+                 {
+                     "name": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+                     "price": 9.85,
+                     "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+                     "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+                 },
+                 {
+                     "name": "Opna Women's Short Sleeve Moisture",
+                     "price": 7.95,
+                     "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+                     "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+                 },
+                 {
+                     "name": "DANVOUY Womens T Shirt Casual Cotton Short",
+                     "price": 12.99,
+                     "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+                     "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+                 }
+             ]
+
+         }]
+     },
+     {
+         "name": "J-king",
+         "location": "AR",
+         "size": 46000,
+         "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/qXSWHOm1zRTpynkTTZ_sg14r3-8=/1660x934/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/3NLYNPAADNC7VMIO2NXVSQVMRI.jpg",
+         "categories": [{
+             "name": "Jewelery",
+             "items": [{
+                     "name": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+                     "price": 695,
+                     "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+                     "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+                 },
+                 {
+                     "name": "Solid Gold Petite Micropave ",
+                     "price": 168,
+                     "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+                     "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+                 },
+                 {
+                     "name": "White Gold Plated Princess",
+                     "price": 9.99,
+                     "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+                     "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+                 },
+                 {
+                     "name": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+                     "price": 10.99,
+                     "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+                     "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+                 }
+             ]
+         }]
+     },
+     {
+         "name": "Bob-Bob",
+         "location": "Boston",
+         "size": 43000,
+         "image": "https://www.gssconstruction.com/wp-content/uploads/2018/11/Warehouse-Construction-gss-n.jpg",
+         "categories": [{
+                 "name": "Men's clothing",
+                 "items": [{
+                         "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                         "price": 109.95,
+                         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+                         "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "name": "Mens Casual Premium Slim Fit T-Shirts ",
+                         "price": 22.3,
+                         "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+                         "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+                     },
+                     {
+                         "name": "Mens Cotton Jacket",
+                         "price": 55.99,
+                         "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+                         "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+                     },
+                     {
+                         "name": "Mens Casual Slim Fit",
+                         "price": 15.99,
+                         "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+                         "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "name": "Jewelery",
+                 "items": [{
+                         "name": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+                         "price": 695,
+                         "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+                         "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+                     },
+                     {
+                         "name": "Solid Gold Petite Micropave ",
+                         "price": 168,
+                         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+                         "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+                     },
+                     {
+                         "name": "White Gold Plated Princess",
+                         "price": 9.99,
+                         "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+                         "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+                     },
+                     {
+                         "name": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+                         "price": 10.99,
+                         "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+                         "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+                     }
+                 ]
+             }, {
+                 "name": "Women's clothings",
+                 "items": [{
+                         "name": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+                         "price": 56.99,
+                         "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+                         "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+                     },
+                     {
+                         "name": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+                         "price": 29.95,
+                         "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+                         "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+                     },
+                     {
+                         "name": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+                         "price": 39.99,
+                         "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+                         "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+                     },
+                     {
+                         "name": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+                         "price": 9.85,
+                         "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+                         "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+                     },
+                     {
+                         "name": "Opna Women's Short Sleeve Moisture",
+                         "price": 7.95,
+                         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+                         "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+                     },
+                     {
+                         "name": "DANVOUY Womens T Shirt Casual Cotton Short",
+                         "price": 12.99,
+                         "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+                         "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+                     }
+                 ]
+             }
+         ]
+     },
+
+     {
+         "name": "High-Tech",
+         "location": "LA",
+         "size": 200000,
+         "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFBgVFRUZGBgaGxoaGBsZGRoYGhsaGhsZGRkaGhgbIi0kGx0pIBoYJTclKy4wNTQ0GiM5PzkyPi0yNDABCwsLEA8QHRISHjIpJCkyMjIyMjIyMjIyMDIyMjIyMjIyMjIyMjIyMjIyMjIyMjI1MjIyMjIyMjIyMjIyMjIyMv/AABEIAJcBTgMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAFAQIDBAYAB//EAE8QAAIABAMEBgQLBAgDCAMAAAECAAMRIQQSMQUiQVEGEzJhcYFCkbHCFCMzUnKCobLB0fAVYnOzJDRDU4OS0uEHk8NEVGR0orTi8RYlY//EABoBAAMBAQEBAAAAAAAAAAAAAAABAgMEBQb/xAAsEQACAgEDAwIFBAMAAAAAAAAAAQIRAxIhMQRBURNhFCIjMoEFkaHwQrHB/9oADAMBAAIRAxEAPwAeXiu4iGZELAx7yifOzmnsSTEpEZYw2phpaLMqHhzCF4bSEJgGOLQmeGmEMA6HFoaWhKQlIBpI4mEh2Qx2QwDtDax0OCw5VEUgtEcKInIhoSHROs5FiyiiIAhidNIpGU2SqoEOZoh6yEaZFGWlsa4iKsSF4QRaNETYYAkAmgJ11p30j0rDbNXqkYjeVQK8aaCPN5RAIMbPZnSHcynwjj6xSaWk7OilBSeoNfBDYiCOGstTeB2ExynSLLzwNDHkTcnsz2IpcotPTjGTx+wleYzEla0JppGg+FVqIDbXxpBH2xt00pxl8rMeojCUfmV0LhNmS5TFlJNuN/GCLTFAF4y8naJHGLEzaarQswA4A3J8FFz5RtlhJvVNmWGcEqgvwHlngaGB+O2lLRgrTEVm7ILAE2J9gPqgJiNss1erTKLbz3Pkg/E+UZvbk1Jnxbz3Z3dAFXKSxDChFteAAoL3jjlljF7bnYoSa32NHi9s/wB2C9OJqqa011PkPOBeOxJNTOmAC+6N1dLbupueJMU+rxkx2kypYTqzkZic7WudOPeaC2pgxgOgVTnxDl25HevSunZH/qjGeecu9L2KjCMe1v3M821c1Vw8svqMx3VFaDXThwr4RewvRfF4k5pzlVJ0FVW5vftHtcANY9CwOyJUrsIAQNTc6cCdPKkXstvP8UjEtybMzsrofIkjs5jS/og2bXi3Z4mNAkhVUqqhQM1ABQavwENxeMlyhWbMVARbMaEmj2Uase4RBMxc1y6SpJsSC8xgiCoLjdFXJyspplGuogEk2XmHvex4q4zaMqW2V3GY6ItWc3fRFqx1HDjDDsqY9TPnswvuSqyZfp2JBMxtKdoA10i/hMFKlVEuWiAk1yqATdxVjqxsLmFqKUPINWfiJh+LlCWpPbnmh9C4lJva0sxXWF/Y2YfGzprm1lYylF20WXf1k6wXr+v8kNf8va8FlqKR49nhzQktu6sXsFhS1Ki0fSSnR8xDG5OkDxeJlwpMaL9lqLgCKU3CODWkZesnwb/CuPJTbBjJbtQPOHatKGDqYd4c6EQlkHLDfsAPg7cj6ocMMx4fhBt1NKxHURSyEPD7gn4KeUKJPfBJ2ipPtFqdmc4UhqIvGJmkoRrFR2hM0VuZppdiZ8GOYiGZhSIes8iEbEmGmxtrsRBDEwIAiBpsMaZFWRpbLBcRzMIqF4TrIeor0yZmhpeIi0IINRagTo0SaxEkSrF6jOSJUWL2DYg0EUFekWJM88DSJluqM4tqVh+RjisWF2vaAEjEUP6MQzJgY2v4aevSOPJDHHeTo9DFmySVQVs0f7YprrA3aO0g5oKk92vq4ecCp81JYrMcL3A3NrDmTXlSG4Xr5py4eQQPnOCLc8lK+unjHFPqoxf01+Wd0emnJfVf4RYq1KkhBz4+s2HhQ+MUjtJK0lI0163IuPBnPsJEaTA9BGejYqYX03B2fCgt6y0a7AbGkycoly1FNDSp0Oh4eVI48maeR3J2dUMcMaqCo8+wnRzG4m8xuqQnRbfaRU+S+carYvQ7DyCrUzPmuxqK05mpY+Z8o0lABU2AJqTYDXUxUlbRRyBKDTd/VBWWLkV61qJbkCT3RmXuypsVP6x/5iZ91IIYiYqKzOyoorVmIUDdHE2gVszDTXOIAmhE66Z2EDTDup6b1VR9UnvgpK2VKVs5XO4zUeYTMcW9EvXJ4LQQrHpKg2iX+RlPM/ep1cvs6537Q+gGh4wM6Z8pNCCo3JAodVsZrip+qqGCjfn90Qv5+8sFlKKKGE2ZKlb0uWA1Luau53W1mOSx8zFsoBmoAKliaClSc5JPeecKdPL3WjnOv1vfiSjn4+fvx3HzP3nhG4+fvx3HzP3mgAbX9f8ALhTx/XFoYD7PwSJJep/XpNAB5l8CAuDTuh8pyOMaTFbJl8ypgViNhvqjVj2Y5Yy5PIlhcPtQz4Za5is+M74jmbIn/NMRJsGc3d42jRKHkzlPJwoslGP4VhXnKeMInROexsV9cI3RfEKeHiCILx+UL6tbpi/CKCmoiFpwPdCzNiz1r+EVW2dOFyp9cUtPZkSc1zFlpEB4wx15xVWVMHoN6jEyYWc3okRWy7kp2uGIuFDHlDp2yWFxcfbFmRgHFMxi68zKKRLyNPY0jhTW6ozbySpoYiME8UoMDnEbRlaOWcdLGkiEBEIUMN6sxdiVEmQRwliGgQoh2hO/I4SYeJIiMGHhjFEvV5HdWIesqOlhj+v1WJmAQZnYKBxY0Ec+TqIY+Xv47m2LpcuThbeWQiX+uHriVJJ/Vh+v1WJMNLmTjlkSXc/OYZEH2Vp4CnfGhwPQh5lDippI/u03V14018yR3R5+X9QlLaKr/Z6WL9PhDebt/wAGXGIQv1a1mOSFyoKgE2GY6AfSgngej2MnkjMkpAzLmW7HKSpoSOYI0PlHoOy9jSZGUSparSlDS/Hjw8qRX2RjJaSwpar55hyIC7062ZfIgLU76UjhlJydydndFKKqKpewN2T0Kw8ohmBmParMT48607q07o0kqQqjKqgAA2AoPUIiVpz9mWssW3phzNblLlmlPFwe6F/Zqt8ozze5zSXfh1aAKw+kGPfEWPSyKZtGXUqhMxwaFZYzkHWjMN1D9IiOy4hzokldb/Gvx1AoiHzeCCoFAVQFA0AAAHgBYQ7jBZWlA5NkyrGZmmsDWs05wDzCUEtT3qoggPxhB+MLx+tElAnYn/aP4z/dlwTP+r2QM2J/b/xn+7Lgmf8AV7IaARuPn90Qp18/eWGtx8/uiF4+fvCEBGdPL3WhX4+fvwh08vdMc/Hz9+ADn4+f/UjuPn7zQjnXz9+OGvn7xgAYDby/BIkTU+f3miJdPL3UiVNT5/eaAAFjHmgbyk99KxTkTyTQVrygrgMfm1rfgfDhFtpSm+UA86CO/Xp2aOPTq3TBCzGPpXiZZeYa3iOfJo0SKz0rb9cofPArrkiAmIe6HzMW5HZPjEyAsNfVF7DhqU4+ETJ+UVFeAE+JiIYq9CBTnGlMgNZlHqipidjyzpY90OOSPdCljl2YHeeFta/dBSTs1qAjLQivPWBGN2QUFc9heLuzm7LCZUrQH8jzjSdabizODeqpIlnbKqbD1Qj9GqivHvpF6XjBnrTxgiZ44axg8skbrHFmOnbAZa7oP65RT/Z7DSVbjuxr5+KoaRIk+0X60ktyPRg3sYuZs4gaAeUVn2cCassb1yh9Ed8QMks1rlCjUmgAHMk6RS6iSJl08WYLE7IQ9hqHvip+xZvAA+BjRbUxmGW0r4wjUocqDxci48AR3wHlPOnELKlu9QDubsuhJALOdRUEcdNIv43SttzGXQKT32BrYfK4RiAxqQAQTYgHTSlRrTUQrZFOU3b5qjO3qGg8fXGtwHQuY1DPm5R/dyrWtYvrw4WPKNJhNlYbDLuIiCvaNASa/OPE90c+TrMs9rpextj6TFDerfuYPCbDxU0oABIz5zvir5UyDNawJL0GuhjTbM6FyJZDzM05x6T6DwHDyoO6C0yYWnIZa1+Lm9vNLHak3utSPAGsW/grt25hp81BkHm1S9e8MvhHLZ10xjPLlgLVUr2VAudeyi3byEIJkxuxLoPnTDkGuoQVc+DBItSMOiVyKFr2iBdu9m1Y95rEkFj0lSXgmJBmTGalN1Pi0qO5TmPgzEd0Q7AAEkUtWZNJ7z1r3ME11gbsL5FfpzP5rxJSQQ/X2Qhhf19kIYAEaO4xzR3GABg/GFHvQg/GFHvQACdif2/8Z/uy4Jsfe9kC9if2/wDGf7suCjf6vZDQDW4+f3RCnXz94Q1uPn7BDZ80ICzVoCNAWN3AFlBJuRDA46eXumOmcfP34jlzAyhhoVBFRQ0K1uDpDnOvn78SAr8fP34Xj5+9EGNRmR1VsrEEA1Ip2+KkEeRBhMHKKKFZgxBJJAIG9MzUAJJtWmvCKAkXTy9xYll6n633jAfaxaiZS4sa5D+6mqV3hBDA9hPo+HHlEgZTDbeFQCAB4RpcPNZ1BF1PEfjHmsiVMY7qsb0rQ09cabZ+IaTLy57nUcjxj2+pwxr5OTxekz5Lanx5NLiMOrcSIqthWZsoelqi35Rm8RtyYtq1Hsiv+3n/AEYyh0uSjWfWYk6dm6kYUS0uwJ42iYOSN0VjIYPb7NZr+yCeH2owFlI5j8R3RjkwTi9zfH1OOS+UPu7DlFfryTSo9cUZe01exND3xSxBapCMpPAV1ra0THHvTLll2tbhPEYUvUZTeKeG2f1ZNQ3fyiDDY6dLHxisB+9X2xDM2uc1zcaU1841jjlulwZSyQ2b2fuEnSlx/tFZtpGWb38Iam2Qa2HCvDTjE03HYeXeYFJOijeanDc/HSM5R0fcjWElP7WVU2ir6gg11B4covYnGy5QrMfIKgAk8ToO/l5iAhx0yexXCSPMKHYeJ7CHuJMXsD0OmTGzz5vEiib7nKxHbcUUWtQW5xjPLF/ajSOOS5ZUxPSXRJaVZjRWa2YmwyoN5vsiHD7FxuLo7Aoh3lM3dHMFZS93E0MbLCbLw0lX6qWC2Vqvd2sD2phrTwr5QRw8tyiXCDKum82g4mwPk0Ytt8mqVcGbwPQ6RL3pxM4i9XossU4hBuinMwTwrKHcS0zL8XTIFCAZD6VhTXSp7oJDCpUEjMebnMQeYBsv1QIikfKTfpJ/LX84VhQzqZjdpgnclzr89hp4KD3w6VhUU5gu9841Z6cs7VandWJ44wh0Un/rCfw5n35UW4qP/WE/hP8AflxbhDGwpjjHGABV1gbsP5FfpTP5kyCQ1gXsZwsgMxoA0yp/xH5QdwCR/Xqiq2KIdUKMAxIDVUqSBmpY1FQDqOEWGcA0JAJrQVubcBxiJXJdgVoFy5W+dUXoOFNPOACR47iI5zEEmWUWhYsd41Ne+mpP65aQASVoPOGYecHAZdCx1FNCQbeIMV9lzGaWCxqSTeLKIFoAAADQACgHgBpAAL2J/b/xn+7Li2izescsRk9AA1NcozVGUUvX0mrXhpFPYh+X/jP92XBNuP1vZDQFDaGKZXVQaZs3AHTLa/OLeIlK4KuoZSbqwBBo4IqDrcD1QP2rXrEtUb1e47tDBJjfz96EAxECqFAAAAAAFAAFAAAGgjm0Pn78dX2fgIRzr5/9SABXOvn78dW/n7yw1j+PteErfzHtSAAZtcDcsDrSrZGrll9lufdBDB9lfA6+MD9rGyVIAvXMmdeynapceMEMF2V8DppqNO6AANNlzStTLDeFD9kBsXJ5gr9kGJe0GQHQjvr9kLL2zLJGcDxppHpxclwv2POkoNU3+5lvgik6n1j8o79ng6E+sRp5uOkNWqIT9EflFCZi5IHyagx0wzTfZnHPp8UeWgXL2Y47LKeYzUPnaLXUzlHo/wCYQ9MVLNbCLkmZKOq/aYc5z7r+BY4Yv8ZV+QPPmzuK+YIivK2hMlsG4jSsalFw/pAKo1LNQDxJNBA+c8uYSmFlPOYekAVli96uR48h3xl8VCO0kaPpJy+aMihO6QTX7VPKKhxhY6D/AHg7huiTsVOImKgP9nKFW56kHw0bxjY7L2RLklerlBTlbebefVeOvlURjk62K2xqvc2x9FKW+WTfsjE4Do7ipoAy9UrA3csjUFLgAZuI+bprGhwnRLDyyvWEzmLUZSN3ss3YF9QLsTx4VjTiVvCpJ3T3C5XgNRbjWHTFAMsAADObCw7D8I4Z5JSdydnoQxxiqiqQmHkkAKiqijQUFvBVsPX5QzC4dSu9vbz2a69tvR09YrF5Yr4TsD6x9bExJdHYu0t+5H+6YcoooHcPZDMd8nM+g/3TD5tbUpw1/DvhdxiGKWG+Um/TX+XLi2zitK30+yvsgU+0ZUp3E2YELzMqA6sRLk2UC57Q9cIAiRHGB+D2zKmzZkmWWLy6h6qQoKtlIBOt+NKd8WWJDKKkhi5Nb8CQByA/CACF/wCsL/CmffSLGcUsa1GYDiRzprxHrisJYWcigWElgBrbOgGvhEhHxo/ht95YAJkaoBoRUA0NiK8COBiCdNZFJIBOcAUr2SwAr30MWDFXaHYH00+8IAJ1TfLVNwBSthQm4HO/2QP2OgaQoYBhmexAItMcix7wDBMQO2L8gvjM/mTIO4DsV8tK8Jn3Vi0fyitiB8bL8JnsWLB/KADmhHPsPshXU0iHEYhFBzTEWgNczqtPGptABV2N8kviYvDX6x/GBmDxkqXLCtNWoPo1fl80Qkzb+HUjfJ3uCmvLQ0PEcIAGbF/t/wCM/wB2XBJzr9b2RmMFt2VK670/jHckMKBTkUE0BIqQNR6QhmK6aylVn6s5RUkjOwuPoD2wJAF9qD4xL0NG8xu1gi2vn78Yud0omPvdWhDCqFULGh453agJtYCxBueEM/pVOsVYXAY/JjKSTVezUkcxUXiqYrRt+Hl+AhWQ0Nufvx5dtXpViFyAOTndUNHcZa0rQEha0pQ0pHYjFEArnLG5q4ZySe9j9lhbSDSw1I9MmzkXtOi69plHFuZis+0pI1mrqOzVuKfNB5GPOWxRNAC60WhyqBmPzjXS1LCgtFHaDP1bUeYGCO9WcjsU7IWnODQxakehTts4aY2VZjlkF+rU2NFFGZhlB/dN+PCFTpJJUAFWtXVpY1NRoTwjA7HDvhJe6XFKXJoABYDwpX1RakyGBqoVd0Dv5010/KHpDWH5e1ValG8Ie0wG5APkIw0rHhQ9EuyihJrlN6kd3298SftSZTLmtpQjuH6/Rj0Fmj4POlgnez29zXTXlDt5VrpUgaXNIpNiJVfk6itKhq3twFe/jwgNM2w7SyhoQKGh1NXFRa5O95Be6IsDNmTJiovEEgCgNgW1aotQ68zCfVVwP4OL53/Af+FYalwVNaUOate6la+UTy8POmfJyRLXhMnFlNP3ZfaJpzg50f2QkuUrFFEzKc7DeNavUB2vSw0ppBaYBenJ/HgNYwn1c5bJm2Poscd6QF2d0Xl5s00tOYU7e4gJ5IPHjaNdJw6opUAKoAoqAIo1NgNIoy5gzEVvUGguaChJoL01iHHdJsNLD5phtmBCoxoVyowNtQWFo5W5SdnWoxigqVAKAAC/uNF1e19X2kflGN//ADnAkg9Ywoa3lzOTDl3xcTpzgSxPX8hdJg5/u+EFMdo1BO8e5RqacW4+UNmsMyfSP3HEZ9emeAzV+EoLKLq40L/u8iIkbpbgSVIxUvUm7U9Cg1HOGBpVPdzp+EVcETkTvFfK35mKK9KMCaUxUnX545GK+G6SYRUQGehIRQQrAmtBXj3QmAUxw+LmCuktj6w49X5RMw3j4A+ZZrwCxPSOSwdVzHMpWtBQdq5Ne/TWK03pcmeiyyWIrQsLAHVlAqDvaeyF3A0M7tJ9I/db84xHSqUzYnD5VZqYhycqlqDJhRU0FhY+qCGxOk7YnFtJMsIqS3etSWLK0tNNAKO32aQbw85Q7qTQtMYqOeVErTyh3TDlGf6MYOYmNxkx5bqrzJmRmUgMDMYjLXUUoaxpZinOlj6fsEZfpXtadLnCVKmBF6tXNCA1S7iuhNNynLWM22LmMpzYg5yWWvxmqsydoUAFRe9Kjuhu2JUj0SYwE8EkD4s6kDV15+ERPjpQmZjNSgQqaNWhzA0tWPMjiEaUKzqOyK2Vt01YBSSHYG5tUDXvh2Hxck5A5cEhGysJYIBIWpUEkXNDxFxC0hqPRW6Q4YV+MBpqQLX0uaV8opT+k+HfdXM1GrUUpmS+U0rfy+2PO9nY2WkmSHVwclACzgN1QCzKFVOhFIfLxqJnzSyVDgZi1yzsVFEpcZlN6g30h6RajczOm0sMFWWSSC1CxXcDKGO8ovvWB1gavS1pUvKqKQoZq2rUlmIsxvflTvjKBw2JRpaDeQoAy2Fc7g2a9eqYailucLL2oZstmWWAMjtoFqEzAqbtQHKRUcDDpBqZpD0pntRqrdajcFVLCtOzXUgE18oo4npHimdEMxqPnzZMyndUEZTn7728xANNqTUWQB6azQAMgC9TmHBKmoUasTEmNaZmluSQRk4sTSbMWWaMCCtADp86ClYrYVfET2FCXN9agGlNL18a614xQRppxLISxAlq6qxJysXZSw4g0GoioWmdc0ouWCzMlSZhJBll9Gdr1Ajp+Eri5cuZcFnlspCkZURmSqsDoWJqeY5Q1QrYRmyWpRygFSd9ibmgJqx7hbSBkwIuIltnQL1cwFgVyWZV7WlL08Yg2bLZnC5qDPOWwUWRkC9kDgT64l2nhiuJVWrmTESEAzFSEZEegUc2IavE05QJiLwmIbibUfubw8sgMUtruhkzBmZtxq5kdQNMu84FTWwAiHE4fNPcZmK55VN52G8rlrsSTw+zug1tTZmSXh3KjI0w0JFQSqtqovYi1taQXuALl42TkQlXYBVUsMgQnKtgzOATelOYIiQYqWbLLqe901Hcuah84HSZf/69BavXBbih+UPHh4efCx3Yezg8wqLEzGAJ0u3GBtoABtybULu5WWaHZVJfIgRbs1BSutIuzdsTSFYy0Cv2Ko5qGqVJuBcUNATSvCLHS7BmVMxEs1Pxatund7A100py5w0oWw+EBrSsrXTsejfXh+A4nYCvh9ozZg3clD//ADYd3FzCY1p2ZQ2+zI6KqhVXK2VXZm1FKjnBXoxgg+RTbMxFeW8eEWOl2zhKm4YA58yzuFNDJMK9x9jM7BadkZVmOgl1QhGQBnzE5iXpQUNLch4RFKx01stWmbys3y0wdlsugI58ovdHDQ4nQfGN4GldL8Px4RW2XLosjvlzf5iRTEOOwp4UNRcp0Y5wprezFaGLGztjgugmhmzMAAjgLlqFJJykk1YCgp48I0+M2bPnFFmKjICGZSZjMxUHLV7HjeoNYjxeAxIMoJKl7oJY1bKgXLlWWlRQmgpUEDKKxMrrZlRW+6A0rZsuYk0rkQqXVN93mHJMykmWxoQUV+VxyrBXYnR1RPKma+ZLVRVXtdWtq5uEwjyiORhsaz0OEkIpzEG9VuTQkMTVjckV74nTC7QSaZqy5ZaqkAPbRQTQuKHdWBscUbTZEj4lwSxySpbAlqtV5Rc5m9I1Y8Ir4cn4ViFJORZOYKSSA3WOuZa6H4saQCkbR2nLDr8DQq6qtpjWyrkGla7orTvio218ejzH+A1LhgxBc1XM9KDLbtMeOo74LQbmw2bL/pKDT+hJpbtTX/2jBdKrLiDwzzD/AJ5yU9eU+qLJ6VYyWQ/wIAiWqGrTQcqm28QADc8PPSBmI29MbOrYPhRznc1q5Yi6MBvE6jhyMF+BOPkzmysK85iK0RaZm8fRXm3s9QOgmYWTNpLBA6pgDkN6WLKfpXvWzVv2hFVJqsH/AKDXLTQqa6WB+DkX7yIdgQsxsnwEqD6TdWKAa0Pwah1FtdNBWObLinN6tVVxX93O3BnxY4OLhd8t8+1FuQJdiUsWG7kKkFpkstmqrUKkPRQSCgpwrDWkgUKqjK84VoBXqmCKaVStt9qqwpSt+E87ZuFUCq0qaG2HAsKkg9SONB5+EMTAYQG60AahvJqBlBraUBWpArpStq3jL0Wndi1WuDL4nH1mOQAozMABYACwFPCnjF/Yk4NMq2g15UIYX7ucEsdisDh3VGks+a4y9Xe9DmOVacRY+cVp23MAAf6PNF8pp1eo46308I6Xqcarbjk5VFKV2ESksLcycp1JINaEUCqOYzG/HugSuLySEmI2VmSbQ2HazuLUp2lU+USTNsYKnYnkAA26p14G9HFKVHnGo6NOkuktFFM9g63RQs9CTU2GZDe9bU4kTCLxptoqT1NJMuf8PZLfDHdq/IuCadr4yTfwpT1xuNlLmlhiKmuYHvKKCR5E+uM9hlzNmzKbNoQgqQy0BvwJ4a0ibZ+LUy1Zd4C1KgVFEYW1BrEeqnwX6Vdwf/xKlhmwoIHytrX9GtPUIwTSAZeHUgWw02unKUv5/q0b7bmzpuKQTFIBkOXVQrOzEAVSgYUO9XQ6cL1ATejk0Mgo3VomQuZbAkTCSzZa+j1a929qLV2UtjKS3A2MQHETj8ySp9U/Ofbz/OJigbEL+7Il/wDuaxexGx5vXmoA61HRsqucgBdgxrQkEqBwoeJ1hH2ZN67PlKpUScxDaLmxOehNlsF1FyNbmK1ImgX1dWkqeCYz+ZbhyiTaCD4wf+KlDy6+Z3eMXMRsyZmDKBklu0rNcZjiXVqhST2CwB55TetoXHbOmMzrLyuWPwgtUqqdW7PlJvXNnW9PR4Vh6gohWXTESKWsjceWNHD/AO+URdFUHwZyQP6viPbP/KCEvDEnDzMyE5pKBTX+0aYgBIPA4kE01yWIrFXo/hZktJko5RSW0vtG/Wh2zVC1ABfSnLXWBsAQiHNhQeAxguORm8fLxEHNvgBMN/h18sQnHhA3EYOapaYsvMmGM9XcEgEznUigPaIWcBltpxpcrt9G6hXOT4lVY3Yk5JiOctheikX5w73sKKOEX+kv/wCZ5U/sG4cIn2xbaI1oJr8AbnDV8zfT84b8GmpilqioJrNOUZm3QiGWyMMpKneWmo74m25LYYlMQEVw89NwVLnNIEnKxoAVqhPgxgvuFFPY4+M/xMT3elL4cONon6bJTHPy6/CnSovKlrc6wzA4WbLnhXVRuvOBzGjJMKC1qggroYs9MCZs4z0UBWmYWlWOeqkJQAClCaXrwgTEDVBM6ZWvbw/aAB0ma0tzjUdJRTC4OlflH0udH0jLT5UyXiWQywoadkUqwyZpRZyALsBletacrCkaXbGK62Vhpay6mW7M4ZgFYFXFAbnVhwhX3D2MZQ/ARrQT+BqBvsaN39/H2bDo0n9I/wAVuHfWMrg5DzpDSUl1dZkxq5lUlQc2RdQfS8z6zfRTaq5zNZGy9YxIGWoNLgAtz74d2A3/AIiJ/SZ1v+yoeVPlhccez7YGSl+LwlqXkXrruDUUsRz4jnwJdNZwnPNnpLOX4MsurlQytnmFmCgmtnUaixOukCs7nD4cpIYmUqMxFL5KHM2opvKBW9LW4F7UFGg6Irvy/ptw/feLn/ENL4U0rvTVvbVUbX6sB+ie0lXLMKuUEx7jLpnY6FgdCIKdKcYmJbDdXLZxLmMzh8igrlpSpY1vQQPbcEZLYRvirj5RqcB6XZ7/AG8bVhNlr8Xhv4c7+akR7IxYT4UxQlSe0A1FoykkZa3ABuODVqBFbC7QEtJazFZCquBUUJDFDWlvSD+QEHLEegNtBuBPrhP2i3GBiPHM0VpRWoK/DD84wnw1uZP2QJzkQ5ZkGlBqCi4+nFh5xKm0Twc+s/nAnPHEjlBpQWGl2q4419X5Q47TB7UtD4iv4wDA5GEzkd8GhBqYZbEyD2pEs/VT8VMRmRgW7WFl/wDKQ/lAsTecOziDSgsIfs/AGvxKCuu4RUWN8vgPVEr7KwLgqUShtTOwsMlKDMKdhPVAunfCUP6rC0Iam1wXx0XwVBSSCBpvuRckn0uZMcejOC/7uh8c/wDqgcQeUOGIcaOw+swg0i1F9ejeC/7onrb84K4FUkqEkgy1DFgq6BiMpO8p4WjPjaE0enX/ACn2isSLtSYPmnxB/AwnjT5GpUHMQesNXmzK0pZkW3kg9cQph0F1mzATrvIwIOtmWnE6acIGrtg8UU+DU9oMSftNTqj+WU+0iI9GPgr1GHMDiWlA5JjNmpXrN8W5UpQnifDlFs7YmV9Cl/Qeta1F81uMZsY+UdQR4qfdrD1xEo+ko+tl9tIfpIWsODaLCYZtEugSm8Oyag/o8BDjtilTRCaUAzlRpS5ofZAdSp7LA+DV9kc1RxP68ol4V/0eoNHbCn0VpQD5SpqONad0dK2otF3CKEHtA6cLeAHkICB2+d9gP4x3WHmD9WE8Caa8hqQbl7RlqQMjaa5VoKZe+vAeqK+BnyUkqswHOoqWCZ771QtqmzEC3HvgWZpHAeyEE4/N+0Q1joepB44vCtLdQtFfVTLIBsAKoV5BRflFfENhMr5ghWjayz6Rq9ssCev7j6x+cN69db/rzh+mw1I0GJfCTGTrCjGjKGKmwK7wz03K2vUXiI4TDMFasgOGDAhkFCvZIva584CiaOf2CFN+RHeoP4w9LFaDuM2ZJmMGbIz5GQsHAbKSGpmBrrccr84rDYctrtLFaoQK2BRsysorQGtb8aDlAgofmg+VPZCEEeivmSv25YTiwtE2A2Us+ZNaYubJinKkEihKS1bTuJi8ej0vMBlagYmudqnUgH92/ChsLwJaY/zU/wCZ/wDCHLiJg5jwmf7iJ0yDYKbP6PpJzFEAJZjU7xGalQGN6WEUT0Wly1fKH7ZezVrXKSt+F/GIXnOR8pMW9d16GoNdQTb2+ESjaE3+8ceILDztDoNhkzo9LmS3qzhWUrSosRW9aX4W7u+L2G2SiyxLCjsiWTQVICot/VA1ptZnWGY+fLkrQjdzZstKUpX1xJN2pMUUE1VbgWRSoJp4V05wb2BAOiglJlWY53ma6qd0sWItTeoaV+zhCYfY9WqHYKBeoGYk3FDoBY8OMX123MNRnktzuD9gYUhybWmAWSVfkTfX9+LsWkH7H6PS5OdTv1d3DGxFQqAGmthXlUwI6X9HzinXKwVgoLEqTW7AXHH/AGjUptY/3SE39I8TfnEb4/eLGRrybuH7vd9sKx0ZaJVNY6OjYyEhMojo6ABpBEKk39Xjo6AB2flC5+cdHQAKGrDSI6OgA6pEL1phY6ABwnQ4NXjHR0ACHwEJk8vOOjoAO6vkfXCdWe72R0dAAyvlHecdHQAd1deAhwZl0LL9FiPYY6OgAlGOmjSY3nRvvAxKNpzRqVPio92kdHQASLtlhrKU+DFfwMTLtleMth4MG9tI6OhDHHa8oasy+K1+7WJ5OKV+xMB+qw9ohI6GItGXMHEQwhoWOhDGFTzhVHf7YWOgELl7/tP5RxSOjoAIXXlWFCj9VEdHQDFCdx/zGOZKc/WI6OhARtLU6j1gGI+ol/NX/KB+EdHQqC2L8FQ8PUSPZSGnAL+//nb/AFR0dBSHZ//Z",
+         "categories": [{
+             "name": "Electronics",
+             "items": [{
+                     "name": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+                     "price": 64,
+                     "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+                     "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+                 },
+                 {
+                     "name": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                     "price": 109,
+                     "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+                     "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+                 },
+                 {
+                     "name": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+                     "price": 109,
+                     "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+                     "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+                 },
+                 {
+                     "name": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+                     "price": 114,
+                     "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+                     "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+                 },
+                 {
+                     "name": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+                     "price": 599,
+                     "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+                     "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+                 },
+                 {
+                     "name": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+                     "price": 999.99,
+                     "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+                     "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+                 }
+             ]
+         }]
+     }
+ ]

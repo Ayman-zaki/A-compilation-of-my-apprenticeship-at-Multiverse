@@ -1,0 +1,32 @@
+<div class="grid-item">
+<div class="container">
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5"></div>
+  <div class="col mb-4">
+    <div class="card">
+      <!--Item details display page-->
+	<h2 class="card-title"><u>{{item.name}}</u></h2>
+      <div class="card-body">
+        <a href="/items/{{item.id}}"><img src="{{item.image}}" class="card-img-top item-img"></a><br>
+        <ul>
+        <li>Price: ${{item.price}}</li>
+        <li>Description: {{item.description}}</li>
+        <li>Category: {{item.category}}</li>
+        </ul><br>
+          
+        <!--Back button-->
+        {{!-- <script>
+  document.write('<a href="' + document.referrer + '"><button class="btn btn-info btnback">❮ Back</button></a>');
+</script> --}}
+<a class="btn" href="/warehouses"><button class="btn btn-info btnback">❮ Back</button></a>
+<!--Delete Item button-->
+<form method="post" action="/items/{{item.id}}?_method=DELETE">
+<input type="hidden" name="_method" value="DELETE"> <button type="submit" class="btn btn-danger btndelete">Delete item</button>
+</form>
+
+<a class="btn" href="/items/edit-item-form/{{item.id}}"><button class="btn btn-info edititembtn">Edit item</button></a>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+</div>

@@ -1,0 +1,31 @@
+
+  
+  <h2  id="items" style="margin-left: 14.55cm">The Items</h2>
+<div class="container">
+  <div class="row row-cols-4">
+              {{#each item}}
+                    <div class="col">
+                        <div id="items-card" class="card" style="width: 14rem;">
+                          <img id="items-img" src="{{this.image}}" class="card-img-top" alt="...">
+                          <div class="card-body">
+                            <h6 class="card-title"><strong>Name</strong>: {{this.name}}</h6>
+                            <a id="itemsbutton" href="item/{{id}}" class="btn btn-primary">See this Item</a>
+                          </div>
+                        </div> 
+                       </div>
+                    {{/each}} 
+              
+    </div>
+  </div>
+  
+ <a id="returnbtn" class="btn btn-secondary"  onclick="goBack()" role="button">Return Back</a>
+ <button id="home-btn" class="btn btn-secondary" onclick="goHome()">Return to Home</button>
+                    <script>
+function goBack() {
+  window.history.back();
+}
+
+function goHome() {
+  window.location.href = "https://strawberriespro.herokuapp.com/";
+}
+</script> 

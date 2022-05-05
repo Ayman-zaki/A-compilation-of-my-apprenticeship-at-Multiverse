@@ -1,0 +1,22 @@
+<h2  id="categories" style="margin-left: 13.55cm">The Categories</h2>
+<div class="container">
+  <div class="row row-cols-4">
+              {{#each categories}}
+                    <div class="col">
+                        <div id="categorycard" class="card" style="width: 14rem;">
+                          <div class="card-body">
+                            <h5 class="card-title text-primary fw-bold">Name: {{this.name}}</h5>
+                            <a id="itemscat-btn" href="category/{{id}}" class="btn btn-primary">See The Items In This Category</a>
+                          </div>
+                        </div> 
+                       </div>
+                    {{/each}} 
+                     <a id="categoriesbtn" class="btn btn-secondary"  onclick="goBack()" role="button">Return Back</a>
+                    <script>
+function goBack() {
+  window.history.back();
+}
+</script> 
+              
+    </div>
+  </div>

@@ -1,0 +1,275 @@
+/* img:not(.bananas) {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+} */
+  
+  body {
+    background-color: #C2C2C2;
+    background-image: url("/img/gradient.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 70px 0;
+    border: 0px solid #ffffff;
+    text-align: center;
+  }
+
+  footer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: rgba(243, 247, 8, 0.842);
+    height: auto;
+    width: 100vw;
+    font-family: "Open Sans";
+    padding-top: 5px;
+    color: #111;
+  }
+
+  #atag {
+    color: rgb(202, 21, 21);
+  }
+  
+  h1, h3 {
+    font-family: "Arial", sans-serif;
+    color: #000000;
+  }
+  
+  h2 {
+    font-family: "Arial", sans-serif;
+    color: #484848;
+  }
+
+  h4 {
+    font-family: "Arial", sans-serif;
+    color: #000000;
+  }
+  
+  p {
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+  }
+  
+  a {
+    color: rgb(202, 21, 21);
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  span {
+    font-size: 65px;
+  }
+  
+  .grid-container {
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    box-sizing: border-box;
+  }
+  
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.4);
+    border: 0px solid #ffffff;
+    padding: 15px;
+    margin: 10px 10px;
+    font-size: 20px;
+    color: #000000;
+    text-align: center;
+  }
+
+ul, li {
+    font-family: "Arial", sans-serif;
+    color: #484848;
+    text-align: left;
+}
+
+input[type=text] {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  align-content: center;
+}
+
+.custom-select {
+  width: 50%;
+  height: 10%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  align-content: center;
+}
+
+textarea {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  align-content: center;
+}
+
+label {
+  color: #484848;
+  font-family: "Arial", sans-serif; 
+  font-weight: bold;
+}
+
+.additem-btn {
+  /* background-color: #4c6271; */
+  border: none;
+  color: white;
+  padding: 8px 8px;
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  opacity: 0.8;
+  transition: 0.3s;
+  border-radius: 8px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.btndelete {
+  /* background-color: #4c6271; */
+  border: none;
+  color: white;
+  padding: 8px 8px;
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  opacity: 0.8;
+  transition: 0.3s;
+  border-radius: 8px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.btnback {
+  /* background-color: #4c6271; */
+  border: none;
+  color: white;
+  padding: 8px 8px;
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  opacity: 0.8;
+  transition: 0.3s;
+  border-radius: 8px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+.detailbtn {
+  position: absolute;
+  bottom: 0;
+  left: 25%;
+  right:25%;
+  font-weight: bold;
+}
+
+.edititembtn {
+/* background-color: #4c6271; */
+  border: none;
+  color: white;
+  padding: 8px 8px;
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  opacity: 0.8;
+  transition: 0.3s;
+  border-radius: 8px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.enterbtn {
+  border: none;
+  color: rgb(202, 21, 21);
+  padding: 8px 8px;
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  opacity: 0.8;
+  transition: 0.3s;
+  border-radius: 8px;
+  /* position: absolute;
+  bottom: 0;
+  left: 0; */
+}
+
+.warehouse-img {
+  width:  40%;
+  height: 40%;
+  object-fit: cover;
+  padding: 3px 3px 3px 3px;
+  border-radius: 20%;
+}
+
+.item-img {
+  width:  60%;
+  height: 60%;
+  object-fit: cover;
+  padding-bottom: 10px;
+  /* border-radius: 20%; */
+}
+
+.rotbanana {
+  width:  10%;
+  height: 10%;
+  object-fit: cover;
+  padding-bottom: 10px;
+}
+
+#aisleview1 {
+background-color: rgba(141, 134, 151, 0.418)
+}
+
+#aisleview2 {
+  background-color: rgb(217, 240, 11)
+}
+
+@media (max-width: 576px) {  
+  .xs {color:red;font-weight:bold;}
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width:768px) {  
+  .sm {color:red;font-weight:bold;}
+}
+ 
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) and (max-width:992px) {  
+ .md {color:red;font-weight:bold;}
+}
+ 
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width:1200px) { 
+ .lg {color:red;font-weight:bold;}
+}
+ 
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  
+    .xl {color:red;font-weight:bold;}
+}

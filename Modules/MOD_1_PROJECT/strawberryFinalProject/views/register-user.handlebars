@@ -1,0 +1,24 @@
+
+
+  
+<h2 id="register-user" >REGISTRATION FORM</h1>
+    <form id="reg-form" name="RegForm" onsubmit="return valid()" action="/submit"  method="post">
+        <p class="text-white fw-bold fs-4">Full Name: <input id="reg-name" type="text" size="30" name="fullName" required/></p>
+        <br />
+        <p class="text-white fw-bold fs-4" >Address: <input id="address" type="text" size="30" name="address"required /></p>
+        <br />
+        <p class="text-white fw-bold fs-4" >E-mail Address: <input type="text" size="30" name="email" required/></p>
+        <br />
+        <p class="text-white fw-bold fs-4" >Telephone: <input id="telephone" type="text" size="30" name="phone"required minlength="10" maxlength="10"/></p>
+        <br />
+        <p class="text-white fw-bold fs-4" >Password: <input id="password" type="text" size="30" name="password" required minlength="8" maxlength="20"/></p>
+        <br />
+            <input id="submit" type="submit" 
+                   value="Submit" name="Submit" />
+            <input id="reset" type="reset" 
+                   value="Reset" name="Reset" />
+        </p>
+    </form>
+
+
+

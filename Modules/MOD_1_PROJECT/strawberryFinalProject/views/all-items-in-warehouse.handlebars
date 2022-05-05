@@ -1,0 +1,31 @@
+<h2 style="margin-left: 12.8cm">All the Items in {{warehouse.name}}</h2>
+
+
+<div class="container"  style="">
+  <div class="row row-cols-4">
+              {{#each warehouse.Categories}}
+                    {{#each this.Items}}
+                    <div class="col">
+                        <div class="card" style="width: 14rem;">
+                          <img src="{{this.image}}" class="card-img-top" alt="...">
+                          <div class="card-body">
+                            <h5 class="card-title">Name: {{this.name}}</h5>
+                            <a href="../../item/{{id}}" class="btn btn-primary">See details</a>
+                          </div>
+                        </div> 
+                       </div>
+                    {{/each}} 
+              {{/each}} 
+    </div>
+  </div>
+  
+ <a class="btn btn-secondary"  onclick="goBack()" role="button">Return Back</a>
+                    <script>
+function goBack() {
+  window.history.back();
+}
+</script> 
+
+
+
+   

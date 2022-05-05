@@ -1,0 +1,355 @@
+[
+    {
+        "name": "Lindsey",
+        "image": "/img/lindsey/dogbanana.gif",
+        "aisle": [
+            {
+                "name": "Snacks",
+                "items": [
+                    {
+                        "name": "Matcha Kit KatKatKat",
+                        "image": "/img/lindsey/matchakitkat.jpg",
+                        "quantity": "7",
+                        "category": "Candy",
+                        "price": 7.27,
+                        "description": "Nestle brings a unique green tea matcha flavor of Japan with this Green Tea Kit Kat. Japan is famous for its 350+ varieties of KitKat flavors, often favored for gifting and tourists to bring an exciting souvenir from Japan. This Kit Kat covered in smooth Matcha Green Tea and filled with the delicious wafer is made with no artificial colors and all-natural flavors."
+                    },
+                    {
+                        "name": "Jubes Nata De Coco Drink (Lychee)",
+                        "image": "/img/lindsey/jubes.jpg",
+                        "quantity": "7",
+                        "category": "Drink",
+                        "price": 7.27,
+                        "description": "Jubes is a tasty, fruit-based dessert that’s high in fiber, but has zero grams of cholesterol and fat. It’s based around a sweet tasting dish called Nata-de-Coco, which is very popular among the health-conscious. These fruity, juicy treats can be incorporated into mixed drinks, desserts such as ice cream and jello, or they can just be eaten by themselves."
+                    },
+                    {
+                        "name": "Dunkaroos",
+                        "image": "/img/lindsey/dunkaroos.jpg",
+                        "quantity": "7",
+                        "category": "Cookie",
+                        "price": 7.27,
+                        "description": "Dunkaroos are a snack food from Betty Crocker, first launched in 1990. It consists of a snack-sized package containing cookies and frosting; as the name implies, the cookies are meant to be dunked into the frosting before eating. Individual snack packages contain about ten small cookies and one cubic inch of frosting."
+                    },
+                    {
+                        "name": "Waffle Crisp",
+                        "image": "/img/lindsey/wafflecrisp.jpg",
+                        "quantity": "7",
+                        "category": "Cereal",
+                        "price": 7.27,
+                        "description": "Waffle Crisp cereal is back! With the same great taste and fun waffle shape you remember, we hope you love the return of Waffle Crisp cereal as much as we do."
+                    }
+                ]
+            },
+            {
+                "name": "Plushies",
+                "items": [
+                    {
+                        "name": "Rilakkuma",
+                        "image": "/img/lindsey/rilakkuma.jpg",
+                        "quantity": "7",
+                        "category": "Bear",
+                        "price": 7.27,
+                        "description": "This Rilakkuma Plush is so fuzzy!"
+                    },
+                    {
+                        "name": "Snorlax",
+                        "image": "/img/lindsey/snorlax.jpg",
+                        "quantity": "7",
+                        "category": "Pokemon",
+                        "price": 7.27,
+                        "description": "This Snorlax Lapse of Memory Plush is so big and huggable."
+                    },
+                    {
+                        "name": "Pusheen",
+                        "image": "/img/lindsey/pusheen.png",
+                        "quantity": "7",
+                        "price": 7.27,
+                        "category": "Cat",
+                        "description": "This Pusheen Plush is so cute! Display her on your bed or sofa, great for cuddling!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Elizabeth",
+        "image": "/img/elizabeth/Elizabeth2.jpg",
+        "aisle": [
+            {
+                "name": "Fashion",
+                "items": [
+                    {
+                        "name": "Crocs",
+                        "image": "/img/elizabeth/Shoes.jpg",
+                        "quantity": "1",
+                        "category": "Shoes",
+                        "price": 60.00,
+                        "description": "Yellow bedazzled with Gold, comfortable fit"
+                    },
+                    {
+                        "name": "Padded Banana Jacket",
+                        "image": "/img/elizabeth/jacket.jpg",
+                        "quantity": "1",
+                        "category": "Clothing",
+                        "price": 40.00,
+                        "description": "yellow padded jacket with banana print all over, stand out in a crowd!"
+                    },
+                    {
+                        "name": "Toe Socks",
+                        "image": "/img/elizabeth/socks.jpg",
+                        "quantity": "1",
+                        "category": "Clothing",
+                        "price": 8.00,
+                        "description": "Enhanced levels of stability and grip.Three-dimensional knitting method ensures a natural fit that’s easy to slip on. "
+                    },
+                    {
+                        "name": "Dolce Gabanna pants",
+                        "image": "/img/elizabeth/pants.jpg",
+                        "quantity": "1",
+                        "category": "Clothing",
+                        "price": 55.00,
+                        "description": "Banana Print Denim Capri Jeans"
+                    }
+                ]
+            },
+            {
+                "name": "Home Decor",
+                "items": [
+                    {
+                        "name": "Rocking Chair",
+                        "image": "/img/elizabeth/banana_chair.jpg",
+                        "quantity": "1",
+                        "category": "Home",
+                        "price": 125.00,
+                        "description": "Recliner Rocking Chair, Removable and Washable."
+                    },
+                    {
+                        "name": "Canvas Wall Art",
+                        "image": "/img/elizabeth/wall_art.jpg",
+                        "quantity": "1",
+                        "category": "Home",
+                        "price": 40.00,
+                        "description": "100% premium canvas, made with the best materials, ensuring longer lifespan and durability.Very Eye Catching!!"
+                    },
+                    {
+                        "name": "Shower Curtain",
+                        "image": "/img/elizabeth/shower_curtain.jpg",
+                        "quantity": "1",
+                        "category": "Home",
+                        "price": 12.00,
+                        "description": "Tropical Shower Curtain with banana shaped hooks, designed to be used with or without a liner.Have a tropical experience in your shower!!!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Abdi",
+        "image": "img/abdi/sloan-play-kitchen-j.jpg",
+        "aisle": [
+            {
+                "name": "Makeup",
+                "items": [
+                    {
+                        "name": "HUDA BEAUTY Eyeshadow Palette",
+                        "image": "/img/abdi/hudabeauty.jpg",
+                        "quantity": "2",
+                        "category": "Makeup",
+                        "price": 45.50,
+                        "description": "Huda’s favorite, Nude Medium’s versatile palette is a rich mix of spicy."
+                    },
+                    {
+                        "name": "Skin Transformation Cream",
+                        "image": "/img/abdi/skincream.jpg",
+                        "quantity": "2",
+                        "category": "Skin care",
+                        "price": 35.50,
+                        "description": "A hydrating and moisturizing face cream that helps reveal plumped and radiant-looking skin with bakuchiol, malachite, ceramides, and hyaluronic acid."
+                    },
+                    {
+                        "name": "Liquid Lash Extensions Mascara",
+                        "image": "/img/abdi/lancome.webp",
+                        "quantity": "2",
+                        "category": "Eye product",
+                        "price": 26.50,
+                        "description": "Instantly create the look of lash extensions with this award-winning, best-selling mascara powered by technology that won't clump, flake or smudge. "
+                    },
+                    {
+                        "name": "MAC Lipstick Trio",
+                        "image": "/img/abdi/lipstick.jpg",
+                        "quantity": "2",
+                        "category": "Lip product",
+                        "price": 36.50,
+                        "description": "Provides immediate and long-term hydration.A comfortable formula that blurs lines and smooths lips.It is lightweight."
+                    
+                    }
+                ]
+            },
+            {
+                "name": "Toys",
+                "items": [
+                    {
+                        "name": "LEGO Marvel Spider-Man Attack on the Spider Lair",
+                        "image": "/img/abdi/LEGOAttackonSpiderLair.jpg",
+                        "quantity": "2",
+                        "price": 46.50,
+                        "category": "Toys",
+                        "description": "Inside the Spider Lair, they’ll find different play areas including a basketball net with basketball launcher, skateboard and quarter pipe, hi-tech command center, and the Spider-Cycle."
+                    },
+                    {
+                        "name": "Hot Wheels Toxic Snake Strike",
+                        "image": "/img/abdi/hotwheels.jpg",
+                        "quantity": "2",
+                        "category": "Toys",
+                        "price": 55.25,
+                        "description": "This easy to set up Hot Wheels playset includes one Hot Wheels vehicle, slime and a giant cobra that must be stopped! Once it’s ready to go, place the Hot Wheels car into the launch pad and slam down to send it flying."
+                    },
+                    {
+                        "name": "Sloan Play Kitchen",
+                        "image": "/img/abdi/sloan-play-kitchen-j.jpg",
+                        "quantity": "2",
+                        "category": "Toys",
+                        "price":156.50,
+                        "description":" Covered on all sides in a child-safe, water-based paint in White.Features a pretend sink, oven, fridge and set of salt and pepper shakers.Faucet handles and knobs turn and doors open.Intended for children aged 3+."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ayman",
+        "image": "/img/ayman/Star-wars-logo.jpg",
+        "aisle": [
+            {
+                "name": "Hoth Clothing",
+                "items": [
+                    {
+                        "name": "Hoth Parka",
+                        "image": "/img/ayman/hoth-parka.jpeg",
+                        "quantity": "2",
+                        "category": "Clothing",
+                        "price": 600.50,
+                        "description": "Don't be stuck outside on a day or night on Hoth a Parka or you'll need to sacrifice your Tauntaun!"
+                    },
+                    {
+                        "name": "Hoth Com Gloves",
+                        "image": "/img/ayman/hoth-glove.jpg",
+                        "quantity": "2",
+                        "category": "Clothing",
+                        "price": 200.50,
+                        "description": "All the warmth you could want for your hands. plus built in communication device..what more could you want!"
+                    },
+                    {
+                        "name": "Hoth Boots",
+                        "image": "/img/ayman/hoth-boot.jpg",
+                        "quantity": "2",
+                        "category": "Clothing",
+                        "price": 320.00,
+                        "description": "No one likes Numb feet! keep you feet warm on the −364 days with the patented Hoth Boots"
+                    }
+                ]
+            },
+            {
+                "name": "Sith Wear",
+                "items": [
+                    {
+                        "name": "Sith Robe",
+                        "image": "/img/ayman/sith-robe.jpg",
+                        "quantity": "2",
+                        "category": "Clothing",
+                        "price": 1000.50,
+                        "description": "Nothing says Dark side like the robe of a Sith Lord!"
+                    },
+                    {
+                        "name": "Battle Droid Mk1",
+                        "image": "/img/ayman/sith-bd.jpg",
+                        "quantity": "2",
+                        "category": "Armament",
+                        "price": 6000.00,
+                        "description": "Have an enemy that needs to be disposed of send the droid 100% satisfaction or your money back."
+                    },
+                    {
+                        "name": "Tie Fighter",
+                        "image": "/img/ayman/tiefighter.jpg",
+                        "quantity": "2",
+                        "category": "Armament",
+                        "price": 60.50,
+                        "description": "Nothing says empire like rolling into battle in a Empire Tie fighter."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "James",
+        "image": "/img/lindsey/dogbanana.gif",
+        "aisle": [
+            {
+                "name": "Snacks",
+                "items": [
+                    {
+                        "name": "Matcha Kit Kat",
+                        "image": "/img/lindsey/matchakitkat.jpg",
+                        "quantity": "7",
+                        "category": "Candy",
+                        "price": 7.27,
+                        "description": "Nestle brings a unique green tea matcha flavor of Japan with this Green Tea Kit Kat. Japan is famous for its 350+ varieties of KitKat flavors, often favored for gifting and tourists to bring an exciting souvenir from Japan. This Kit Kat covered in smooth Matcha Green Tea and filled with the delicious wafer is made with no artificial colors and all-natural flavors."
+                    },
+                    {
+                        "name": "Jubes Nata De Coco Drink (Lychee)",
+                        "image": "/img/lindsey/jubes.jpg",
+                        "quantity": "7",
+                        "category": "Drink",
+                        "price": 7.27,
+                        "description": "Jubes is a tasty, fruit-based dessert that’s high in fiber, but has zero grams of cholesterol and fat. It’s based around a sweet tasting dish called Nata-de-Coco, which is very popular among the health-conscious. These fruity, juicy treats can be incorporated into mixed drinks, desserts such as ice cream and jello, or they can just be eaten by themselves."
+                    },
+                    {
+                        "name": "Dunkaroos",
+                        "image": "/img/lindsey/dunkaroos.jpg",
+                        "quantity": "7",
+                        "category": "Cookie",
+                        "price": 7.27,
+                        "description": "Dunkaroos are a snack food from Betty Crocker, first launched in 1990. It consists of a snack-sized package containing cookies and frosting; as the name implies, the cookies are meant to be dunked into the frosting before eating. Individual snack packages contain about ten small cookies and one cubic inch of frosting."
+                    },
+                    {
+                        "name": "Waffle Crisp",
+                        "image": "/img/lindsey/wafflecrisp.jpg",
+                        "quantity": "7",
+                        "category": "Cereal",
+                        "price": 7.27,
+                        "description": "Waffle Crisp cereal is back! With the same great taste and fun waffle shape you remember, we hope you love the return of Waffle Crisp cereal as much as we do."
+                    }
+                ]
+            },
+            {
+                "name": "Plushies",
+                "items": [
+                    {
+                        "name": "Rilakkuma",
+                        "image": "/img/lindsey/rilakkuma.jpg",
+                        "quantity": "7",
+                        "category": "Bear",
+                        "price": 7.27,
+                        "description": "This Rilakkuma Plush is so fuzzy!"
+                    },
+                    {
+                        "name": "Snorlax",
+                        "image": "/img/lindsey/snorlax.jpg",
+                        "quantity": "7",
+                        "category": "Pokemon",
+                        "price": 7.27,
+                        "description": "This Snorlax Lapse of Memory Plush is so big and huggable."
+                    },
+                    {
+                        "name": "Pusheen",
+                        "image": "/img/lindsey/pusheen.png",
+                        "quantity": "7",
+                        "price": 7.27,
+                        "category": "Cat",
+                        "description": "This Pusheen Plush is so cute! Display her on your bed or sofa, great for cuddling!"
+                    }
+                ]
+            }
+        ]
+    }
+]

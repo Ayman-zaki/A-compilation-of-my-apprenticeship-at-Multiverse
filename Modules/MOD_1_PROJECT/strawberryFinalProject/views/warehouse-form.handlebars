@@ -1,0 +1,23 @@
+
+<h1>
+    Select Warehouse near to you!!
+</h1>
+<br><br><br><br><br><br>
+
+<div class="dropdown " style="margin-left: 14cm">
+  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+    Select a Warehouse
+  </button>
+  <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1" >
+     {{#each warehouses}}                   
+    <li><a class="dropdown-item" href="/warehouse/{{this.id}}">{{this.name}} {{this.location}}</a></li>
+    <li><hr class="dropdown-divider"></li>
+   {{/each}}   
+  </ul>
+</div>
+ <a class="btn btn-secondary "  onclick="goBack()" role="button">Return Back</a>
+                    <script>
+function goBack() {
+  window.history.back();
+}
+</script> 

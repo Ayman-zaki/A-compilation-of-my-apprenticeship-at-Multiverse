@@ -1,0 +1,42 @@
+
+<section>
+    <article >  
+        <div class="card mb-3" style="max-width: 1000px">
+            <div class="row g-0">
+                <div class="col-md-4">
+                    <img id="item-img" src="{{item.image}}" class="img-fluid rounded-start" alt="...">
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title fw-bold">Name: {{item.name}}</h5>
+                        <h5 class="card-title fw-bolder">Price: ${{item.price}}</h5>
+                        <p class="card-text text-success fw-bold" >{{item.description}}</p>
+                    </div>  
+                    <a id="add-item" class="btn btn-secondary"  href="/item-form" role="button">Add Item</a>
+                    <a id="return-item" class="btn btn-secondary"  onclick="goBack()" role="button">Return Back</a>
+                    <form action="/allitems">
+                         <button id="delete-btn" class="btn btn-secondary" type="submit">Delete Item</button>
+                         <a id="updateitem" class="btn btn-secondary"  href="/update-form/{{item.id}}" role="button">Update Item</a>
+                    </form>
+                     <div id="item" style="opacity: 0">{{item.id}}</div>
+
+                    <script>
+                        function goBack() {
+                        window.history.back();
+                        }
+                        const id = document.getElementById("item").innerText;
+                        const deleteBtn = document.getElementById("delete-btn");
+                        deleteBtn.addEventListener("click",(e)=>{
+                        fetch('/delete/'+id, {
+                                method: 'DELETE'
+                            })
+                        })
+                        
+                        </script> 
+                                        
+                                        </div>        
+                                    </div>
+                                </div>
+                            </article>
+                        </section>
+

@@ -1,0 +1,29 @@
+<form id="update-form" action="/update/{{item.id}}" method="POST">
+    <h3 id="update-item" >Update Item Form</h3>
+    <label class="text-white fw-bold fs-4" for="name" >Item Name:</label>
+    <input type="text" id="name" name="name" value="{{item.name}}" required><br><br>
+    <label class="text-white fw-bold fs-4" for="description">Item Description:</label>
+    <input type="text" id="description" name="description" value="{{item.description}}" required><br><br>
+    <label class="text-white fw-bold fs-4" for="price">Item Price:</label>
+    <input type="number" id="price" name="price" value="{{item.price}}" required><br><br>
+    <label class="text-white fw-bold fs-4" for="image">Image:</label>
+    <input type="text" id="image" name="image" value="{{item.image}}" required><br><br>
+    <label class="text-white fw-bold fs-4" for="CategoryId">Select Warehouse and Category:</label>
+    <select name="CategoryId" class="form-select" >
+    <option value="1">"Sound" : "Men's clothing"</option>
+    <option value="2">"Sound" : "Jewelery"</option>
+    <option value="3">"Wish" : "Men's clothing"</option>
+    <option value="4">"Wish" : "Jewelery"</option>
+    <option value="5">"Wish" : "Electronics"</option>
+    <option value="6">"Land" : "Jewelery"</option>
+    <option value="7">"Land" : "Women's clothings"</option>
+    <option value="8">"Rose" : "Women's clothings"</option>
+    <option value="9">"J-king" : "Jewelery"</option>
+    <option value="10">"J-king" : "Men's clothing"</option>
+    <option value="11">"Bob-Bob" :"Jewelery" </option>
+    <option value="12">"Bob-Bob" : "Women's clothings"</option>
+    <option value="13">"High-Tech" : "Electronics"</option>
+    </select>
+    <button id="update" class="btn btn-secondary" type="submit">Update Item!</button>
+</form>
+

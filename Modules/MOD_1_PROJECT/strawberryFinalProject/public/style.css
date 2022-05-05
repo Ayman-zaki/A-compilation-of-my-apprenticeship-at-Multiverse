@@ -1,0 +1,507 @@
+body {
+    background-image: url('https://www.desktopbackground.org/download/1024x768/2015/01/08/883791_background-images-for-websites-professional-blue_1400x1050_h.jpg');
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+    color: darkblue;
+    background-image: url('./img/Strawberry-Download-PNG.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 150px;
+    margin-top: 5px;
+    text-shadow: 2px 2px red;
+}
+
+.b {
+    width: 600px;
+    height: 350px;
+}
+
+.c {
+    margin-left: 27%;
+}
+
+.return {
+    align-self: bottom right;
+}
+
+#description {
+    height: 3cm;
+    color: darkblue;
+}
+
+
+#home:hover {
+    background-color: white;
+    color: darkblue;
+    font-weight: bold;
+}
+
+#list li {
+    font-size: 18px;
+}
+
+#inventory {
+    font-size: 100px;
+}
+
+#sub-heading {
+    color: red;
+    font-weight: bold;
+    font-size: 50px;
+    text-shadow: 2px 2px white;
+}
+
+#img-warehouse {
+    height: 150px;
+    width: auto;
+    padding: 5px;
+}
+
+#returnback {
+    color: black;
+}
+
+#warehousecard {
+    height: fit-content;
+    width: auto;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    box-shadow: 2px 2.5px dodgerblue;
+}
+
+#warehouse {
+
+    text-align: center;
+   
+}
+
+#warehousebtn:hover {
+    background-color: red;
+    font-weight: bold;
+}
+
+#returnhome {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 350px;
+    margin-bottom: 60px;
+    background-color: blue;
+}
+
+#returnhome:hover {
+    background-color: crimson;
+}
+
+#items {
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-shadow: 1.5px 1.5px white;
+    color: red;
+}
+
+#returnback:hover {
+    background-color: red;
+}
+
+#items-img {
+    height: 250px;
+    width: auto;
+    padding: 5px;
+}
+
+#items-card {
+    height: fit-content;
+    width: auto;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    box-shadow: 2px 2.5px dodgerblue;
+}
+
+#itemsbutton:hover {
+    background-color: red;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#returnbtn {
+    color: white;
+    background-color: crimson;
+    font-size: 30px;
+    margin-bottom: 60px;
+    margin-left: 420px;
+    width: 280px;
+}
+
+#returnbtn:hover {
+    background-color: darkorange;
+    color: black;
+    font-weight: bold;
+}
+
+#categories {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    color: crimson;
+    font-weight: bolder;
+    text-shadow: 2px 2px white;
+}
+
+#categorycard {
+    height: 200px;
+    margin-bottom: 30px;
+    box-shadow: 2px 2.5px dodgerblue;
+}
+
+#categoriesbtn {
+    background-color: blue;
+    font-size: 22px;
+}
+
+#categoriesbtn:hover {
+    background-color: darkorange;
+    color: darkgreen;
+    font-weight: bold;
+}
+
+#itemscat-btn:hover {
+    background-color: crimson;
+    font-weight: bold;
+}
+
+#side-heading {
+    color: blue;
+    font-size: 30px;
+    text-shadow: 2px 1px red;
+}
+
+#categories-button:hover {
+    background-color: crimson;
+    font-weight: bold;
+}
+
+#warehouses-button:hover {
+    background-color: crimson;
+    font-weight: bold;
+}
+
+#items-button:hover {
+    background-color: crimson;
+    font-weight: bold;
+}
+
+#category {
+
+    text-shadow: 2px 2px white;
+
+}
+
+#category-info {
+    margin-left: 20px;
+}
+
+#category-button {
+    margin-top: 30px;
+    color: darkblue;
+    background-color: orange;
+    font-size: 22px;
+    margin-left: 20px;
+    width: 250px;
+}
+
+#category-button:hover {
+    background-color: crimson;
+    color: white;
+    font-weight: bold;
+}
+
+#warehouse-card {
+
+    
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 520px;
+}
+
+#warehouse-return {
+
+    background-color: blue;
+    font-size: 22px;
+    margin-bottom: 30px;
+    margin-left: 520px;
+    width: 230px;
+}
+
+#warehouse-return:hover {
+    background-color: crimson;
+    font-weight: bold;
+}
+
+#warehouse-category:hover {
+    background-color: crimson;
+    font-weight: bold;
+}
+
+#item-return {
+    background-color: blue;
+    margin-top: 60px;
+    margin-left: 200px;
+    width: 180px;
+    font-size: 22px;
+}
+
+#item-return:hover {
+    background-color: red;
+    font-weight: bold;
+}
+
+#item-img {
+    height: 400px;
+    width: auto;
+}
+
+#add-item {
+    background-color: blue;
+    margin-top: 30px;
+    margin-left: 15px;
+    width: 180px;
+    font-size: 22px;
+}
+
+#return-item {
+    background-color: blue;
+    margin-top: 30px;
+    margin-left: 60px;
+    width: 180px;
+    font-size: 22px;
+}
+
+#delete-btn {
+    background-color: blue;
+    margin-top: 30px;
+    margin-left: 15px;
+    width: 180px;
+    font-size: 22px;
+}
+
+#add-item:hover,
+#return-item:hover,
+#delete-btn:hover {
+    background-color: crimson;
+    font-weight: bold;
+
+}
+
+#new-item {
+
+   
+    font-size: 40px;
+    color: red;
+    text-shadow: 2px 2px white;
+}
+
+#description {
+
+    margin-left: 5px;
+
+}
+
+#name {
+
+    margin-left: 65px;
+
+}
+
+#price {
+
+    margin-left: 80px;
+}
+
+#image {
+
+    margin-left: 125px;
+}
+
+#item-form {
+
+    margin-left: 400px;
+
+}
+
+#itemreturn-btn {
+
+    margin: 10px 0px 15px 10px;
+    background-color: blue;
+    width: 190px;
+}
+
+#itemreturn-btn:hover {
+
+    background-color: red;
+    font-weight: bold;
+
+}
+
+#item-submit {
+
+    margin: 20px 0px 10px 2px;
+    background-color: dodgerblue;
+    color: whitesmoke;
+    font-size: 20px;
+
+}
+
+#item-submit:hover {
+
+    background-color: green;
+    color: darkblue;
+    font-weight: bold;
+
+
+}
+
+#update {
+
+    background-color:crimson;
+    margin: 20px 0px 20px 0px;
+    color: white;
+    font-size: 22px;
+
+}
+
+#update:hover {
+
+    background-color: blue;
+    font-weight: bold;
+
+}
+
+#update-form {
+
+    margin-left: 400px;
+
+}
+
+#update-item {
+
+    font-size: 40px;
+    color: red;
+    text-shadow: 2px 2px white;
+
+}
+
+#updateitem {
+
+    background-color: blue;
+    margin-top: 30px;
+    margin-left: 60px;
+    width: 180px;
+    font-size: 22px;
+
+}
+
+#updateitem:hover {
+
+    background-color: red;
+    font-weight: bold;
+
+}
+
+#register-user {
+
+    margin: 30px 0px 30px 0px;
+    color: red;
+    background-image: none;
+    text-align: center;
+    font-size: 45px;
+    text-shadow: 2px 2px white;
+
+}
+
+#reg-form {
+
+    margin-left: 400px;
+
+}
+
+#reg-name {
+
+    margin-left: 50px;
+
+}
+
+#address {
+
+    margin-left: 75px;
+}
+
+#telephone {
+
+    margin-left: 50px;
+
+}
+
+#password {
+
+    margin-left: 62px;
+
+}
+
+#submit {
+
+    margin-left: 120px;
+    background-color: blue;
+    width: 100px;
+    color: white;
+    font-size: 22px;
+
+}
+
+#reset {
+
+    margin-left: 20px;
+    background-color: blue;
+    width: 100px;
+    color: white;
+    font-size: 22px;
+
+}
+
+#submit:hover, #reset:hover {
+
+    background-color: red;
+    font-weight: bold;
+
+}
+
+#home-btn {
+
+    background-color: blue;
+    width: 280px;
+    margin-top: 70px;
+    margin-left: -285px;
+    margin-bottom: 10px;
+    font-size: 22px;
+
+}
+
+#home-btn:hover {
+
+    background-color: greenyellow;
+    color: blue;
+    font-weight: bold;
+
+}
+
+.form-select {
+
+    max-width: 400px;
+
+}
