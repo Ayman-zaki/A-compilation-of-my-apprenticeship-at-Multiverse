@@ -1,11 +1,24 @@
-Bootcamp Finel Project
+Project Description
 
-## How to use 
-1.  Fork this repo and clone it.
-2.  Download Bootstrap https://getbootstrap.com/docs/5.0/getting-started/download or npm install bootstrap
-3.  npm install
-4.  access the bin folder that contains the seeding file (pop.js)
-5.  seeding by using the command npm seed
-6.  to run your server ==> npm start
+in this project the user can move between Warehousess and in each Warehouses he can see the inventory 
+he can add and remove item from the inventory
+the user can add description or edit exesting one 
 
-## 
+Technologies
+
+Html
+
+Css
+
+Javascript
+
+sqlite 
+
+[] Setup 
+
+To run this project cd project name 
+
+install npm
+
+npm run start-dev
+
